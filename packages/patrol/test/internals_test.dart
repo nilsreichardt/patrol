@@ -1,4 +1,4 @@
-// ignore_for_file: invalid_use_of_internal_member, depend_on_referenced_packages, implementation_imports
+// ignore_for_file: invalid_use_of_internal_member, depend_on_referenced_packages, implementation_imports, avoid_returning_null_for_void
 import 'package:flutter_test/flutter_test.dart';
 import 'package:patrol/src/common.dart'
     show createDartTestGroup, deduplicateGroupEntryName;
